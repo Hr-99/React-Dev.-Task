@@ -1,0 +1,517 @@
+body{
+    overflow-x: hidden;
+    
+    font-family: 'Roboto', sans-serif;
+    
+}
+.nav{
+    position: absolute;
+    bottom: 85%;
+    left: 10.2%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.line{
+    position: absolute;
+    bottom: 43%;
+    left: 41.4%;
+    font-size: 40px;
+}
+.line2 b{
+     font-size: 80px;
+     text-align: center;
+
+ }
+.line2{
+    position: absolute;
+    bottom: 28%;
+    left: 33.5%;
+
+}
+.sd img{
+position: absolute;
+height: 50px;
+width: 35px;
+left: 50%;
+top: 128%;
+bottom: 0%;
+right: 0%;
+
+}
+
+
+.b-img{
+    float: right;
+    margin-right: 50px;
+}
+
+.s1{
+ margin-left: 25%;
+ font-size: 100px;
+}
+
+.s2{
+    margin-left: 25%;
+    font-size: 100px;
+}
+
+.s3{
+    
+    margin-left: 25%;
+    font-size: 100px;
+
+}
+.bt{
+    position: absolute;
+    width: 50%;
+    margin-top: 140px;
+
+}
+
+.content{
+    position: absolute;
+    margin-top: 40%;
+    margin-left: 12%;
+    font-size: 22px;
+}
+
+.img1{
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 12%;
+}
+
+.abt{
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 12%;
+    font-size: 100px;
+}
+
+.abt-c{
+    position: absolute;
+    margin-top:80%;
+    margin-left: 65%;
+    font-size: 22px;
+}
+
+.st{
+    position: absolute;
+    margin-top: 110%;
+    margin-left: 12%;
+    font-size: 100px;
+}
+.s-p{
+    position: absolute;
+    margin-top: 125%;
+    margin-left: 12%;
+    font-size: 22px;
+}
+.s-i img{
+    position: absolute;
+    height: 90%;
+    width: 40%;
+    margin-top: 135%;
+    margin-left: 60%;
+}
+
+.ser{
+    position: absolute;
+    margin-top: 135%;
+    margin-left: 12%;
+    width: 40%; 
+    
+
+}
+.ser img{
+    float: left;
+    height: 50px;
+    width: 50px;
+    margin-top: 10px;
+}
+
+.ser p{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 22px;
+    margin-top:22px;
+}
+
+.stu{
+    position: absolute;
+    margin-top: 190%;
+    margin-left: 12%;
+    font-size: 100px;
+
+
+}
+.stu-i{
+    position: absolute;
+    margin-top: 210%;
+    margin-left: 12%;
+    
+}
+.stu-i img{
+    width: 850px;
+    height: 500px;
+    border-radius: 4px;;
+}
+.row{
+    display: flex;
+}
+.col{
+    flex: 50%;
+    padding: 20px;
+}
+
+.st-t #a{
+    position: absolute;
+    top: 80%;
+    left: 3%;
+    color: white;
+    font-size: 12px;
+    
+}
+.st-t #b{
+    position: absolute;
+    top: 82%;
+    left: 3%;
+    color: white;
+    font-size: 22px;
+}
+
+.st-tt #c{
+    position: absolute;
+    top: 80%;
+    left: 53%;
+    color: white;
+    font-size: 12px;
+
+}
+
+.st-tt #ecom{
+    position: absolute;
+    top: 82%;
+    left: 53%;
+    color: white;
+    font-size: 22px;
+}
+
+.stu-ar img{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 656%;
+    left: 14%;
+    right: 0%;
+    color: black;
+    
+}
+
+.stu-p p{
+    position: absolute;
+    top: 656%;
+    left: 20%;
+    right: 0%;
+    color: black;
+
+}
+.stu-arr img{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 656%;
+    left: 23.5%;
+    right: 0%;
+    color: black;
+}
+
+
+.stu-d p{
+    position: absolute;
+    margin-top: 260%;
+    margin-left: 12%;
+    font-size: 22px;
+}
+
+.ms #one{
+    position: absolute;
+    margin-top: 280%;
+    margin-left: 12%;
+    font-size: 100px;
+    font-weight: normal;
+
+}
+.ms #two{
+    position: absolute;
+    margin-top: 290%;
+    margin-left: 12%;
+    font-size: 100px;
+
+}
+
+.ms #three{
+    position: absolute;
+    margin-top: 305%;
+    margin-left: 43%;
+    font-size: 45px;
+    font-weight: bold;
+}
+/* #in{
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+   
+} */
+#cto{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 312%;
+    margin-left: 12%;
+    font-size: 20px;
+}
+#ad{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 312%;
+    margin-left: 39%;
+    font-size: 20px;
+}
+#ev{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 312%;
+    margin-left: 66%;
+    font-size: 20px;
+}
+#dd{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 321%;
+    margin-left: 12%;
+    font-size: 20px;
+}
+#pm{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 321%;
+    margin-left: 39%;
+    font-size: 20px;
+}
+#pmn{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 321%;
+    margin-left: 66%;
+    font-size: 20px;
+}
+#case{
+    position: absolute;
+    margin-top: 334%;
+    margin-left: 39%;
+    font-size: 45px;
+}
+#dtd{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 340%;
+    margin-left: 12%;
+    font-size: 20px;
+    white-space: normal;
+}
+#hd{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 340%;
+    margin-left: 39%;
+    font-size: 20px;
+    white-space: normal;
+}
+#wm{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 340%;
+    margin-left: 66%;
+    font-size: 20px;
+    white-space: normal;
+}
+#d{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 349%;
+    margin-left: 12%;
+    font-size: 20px;
+    white-space: normal;
+}
+#ba{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 349%;
+    margin-left: 39%;
+    font-size: 20px;
+    white-space: normal;
+    /*word-wrap: break-word;*/
+}
+#rc{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 349%;
+    margin-left: 66%;
+    font-size: 20px;
+    white-space: normal;
+}
+#ver{
+    position: absolute;
+    margin-top: 362%;
+    margin-left: 40.5%;
+    font-size: 45px;
+    font-weight: bold;
+}
+#hc{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 368%;
+    margin-left: 12%;
+    font-size: 20px;
+}
+#te{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 368%;
+    margin-left: 39%;
+    font-size: 20px;
+}
+#ed{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 368%;
+    margin-left: 66%;
+    font-size: 20px;
+}
+#fi{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 377%;
+    margin-left: 12%;
+    font-size: 20px;
+}
+#le{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 377%;
+    margin-left: 39%;
+    font-size: 20px;
+}
+#lo{
+    position: absolute;
+    background-color: transparent;
+    width: 20%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 377%;
+    margin-left: 66%;
+    font-size: 20px;
+}
+#con{
+    position: absolute;
+    margin-top: 391%;
+    margin-left: 12%;
+    font-size: 45px;
+    
+}
+#con1{
+    position: absolute;
+    margin-top: 395%;
+    margin-left:12%;
+    font-size: 45px;
+    font-style: italic;
+}
+
+.con-i img{
+    position: absolute;
+    margin-top: 400%;
+    margin-left: 12%;
+}
+.contact {
+    position: absolute;
+    margin-top: 410%;
+    margin-left: 60%;
+}
+.contact form input{
+    border:none;
+    background: transparent;
+    border-bottom: 2px solid black;
+    outline: none;
+    
+}
+#ph{
+    margin-left: 10px;
+}
+
+form textarea{
+    border: 2px solid black;
+}
+form #button{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 75%;
+    width: 100px;
+    height: 35px;
+}
